@@ -6,7 +6,7 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=ImBasit-ali&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="ImBasit-ali" />
+  <img src="https://komarev.com/ghpvc/?username=ImBasit-ali&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="ImBasit ALi" />
 
   <br/>
   <br/>
@@ -25,8 +25,8 @@
 - 🔭 I’m currently working on **App Development**
 - 🌱 I’m currently learning **Advanced Data Structures**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Flutter, Python, and C++**
-- 📫 Reach me at: **[Your Email Here]**
+- 💬 Ask me about **Flutter, Python, and Dart**
+- 📫 Reach me at: **[devbasitpy@gmail.com]**
 
 ---
 
