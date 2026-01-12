@@ -1,12 +1,17 @@
 <div align="center">
- 
+  <img src="/home/ubuntu/upload/search_images/TWT9mp3mRuMF.png" alt="Developer Banner" width="100%"/>
+</div>
+
+
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Basit-Ali;Code.+Create.+Innovate.;Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=ImBasit-ali&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="ImBasit-ali" />
+  <img src="https://komarev.com/ghpvc/?username=ImBasit-ali&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
   <br/>
   <br/>
@@ -22,11 +27,7 @@
 
 ### ⚡ About Me
 
-- 🔭 I’m currently working on **App Development**
-- 🌱 I’m currently learning **Advanced Data Structures**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Flutter, Python, and Dart**
-- 📫 Reach me at: **[devbasitpy@gmail.com]**
+I am currently focused on **App Development** and continuously expanding my knowledge in **Advanced Data Structures**. I am always eager to **collaborate on Open Source Projects** and welcome discussions about **Flutter, Python, and Dart**. You can reach me directly at **[devbasitpy@gmail.com](mailto:devbasitpy@gmail.com)**.
 
 ---
 
@@ -37,7 +38,6 @@
 </div>
 
 <br/>
-
 
 <div align="center">
   
